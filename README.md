@@ -7,14 +7,14 @@
 
 <div align="center">
 
-# 👋 Hi there, I'm <span style="color: #6366f1;">[Your Name]</span>
+# 👋 Hi there, I'm <span style="color: #6366f1;">Muneeb Ali</span>
 
 ### 🚀 AI Engineer | Generative AI & Deep Learning Specialist | MLOps Enthusiast
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev-muneebali)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models%20%26%20Datasets-FFD21E?style=for-the-badge)](#)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
 
 <br/>
@@ -95,12 +95,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=dev-muneebali&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-muneebali&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" width="48%" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" width="97%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-muneebali&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" width="97%" />
 
 </div>
 
