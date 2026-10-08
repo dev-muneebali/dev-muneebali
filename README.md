@@ -135,15 +135,23 @@ flowchart LR
 
 ---
 
-### 📊 Live Activity & Contribution Tracker
+### 📊 GitHub Activity & Metrics
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/6366f1/dev-muneebali" alt="Muneeb's Live GitHub Contribution Chart" width="100%" />
+[![Profile Views](https://komarev.com/ghpvc/?username=dev-muneebali&style=flat-square&color=6366f1&label=PROFILE+VIEWS)](https://github.com/dev-muneebali)
+[![Primary Focus](https://img.shields.io/badge/Primary%20Focus-Generative%20AI%20%26%20MLOps-8b5cf6?style=flat-square&logo=pytorch)](https://github.com/dev-muneebali)
+[![Repositories](https://img.shields.io/badge/Public%20Repos-Active-22c55e?style=flat-square&logo=github)](https://github.com/dev-muneebali?tab=repositories)
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=dev-muneebali&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Live Streak Tracker" width="95%" />
+<img src="https://github-readme-stats.vercel.app/api?username=dev-muneebali&show_icons=true&hide=issues,prs&theme=tokyonight&bg_color=0d1117&border_color=21262d&border_radius=8" height="150" alt="Muneeb's GitHub Stats" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-muneebali&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=21262d&border_radius=8" height="150" alt="Most Used Languages" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=dev-muneebali&theme=tokyonight&background=0d1117&border=21262d&border_radius=8" width="95%" alt="GitHub Streak Tracker" />
 
 </div>
 
