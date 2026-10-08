@@ -13,8 +13,6 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev-muneebali)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models%20%26%20Datasets-FFD21E?style=for-the-badge)](#)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
 
 <br/>
@@ -113,7 +111,6 @@
 I'm always eager to collaborate on novel AI research, open-source projects, and industry applications.
 
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=flat&logo=linkedin)](#)
-[![Follow on Hugging Face](https://img.shields.io/badge/Follow-Hugging%20Face-yellow?style=flat&logo=huggingface)](#)
 [![Send an Email](https://img.shields.io/badge/Email-Me-red?style=flat&logo=gmail)](#)
 
 </div>
