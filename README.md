@@ -135,13 +135,14 @@ flowchart LR
 
 ---
 
-### 📈 Continuous Activity & Contributions
+### 🎯 Engineering Benchmarks & Core Focus
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-muneebali&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Continuous Activity Graph" />
-
-</div>
+| Focus Area | Engineering Objective | Primary Stack | Production Standard |
+| :--- | :--- | :--- | :--- |
+| **High-Throughput LLM Inference** | Sub-100ms Time-To-First-Token (TTFT) | `vLLM` `PagedAttention` `TensorRT-LLM` | Optimized memory utilization & continuous batching |
+| **High-Precision RAG Pipelines** | Low-latency dense retrieval & reranking | `Qdrant` `BGE-M3` `LangChain` | Sub-150ms P95 semantic search with cross-encoder validation |
+| **Parameter-Efficient Tuning (PEFT)** | Domain-specific adaptation on limited VRAM | `LoRA / QLoRA` `Hugging Face` `BitsAndBytes` | 4-bit quantization preserving >98% baseline accuracy |
+| **Edge & Mobile AI Systems** | On-device inference & offline execution | `ONNX Runtime` `Android SDK` `SQLite` | Zero cloud latency & localized privacy preservation |
 
 ---
 
