@@ -60,3 +60,6 @@ Thumbs.db
 wandb/
 mlruns/
 lightning_logs/
+
+# Separate Project Repositories
+Projects/

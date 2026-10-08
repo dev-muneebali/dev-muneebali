@@ -77,15 +77,11 @@
 
 ---
 
-### 📂 Featured AI Projects
+### 📂 Featured Projects
 
-*(Projects will be populated exclusively with the projects you provide)*
-
-| Project | Domain / Architecture | Tech Stack | Highlights & Metrics | Links |
+| Project | Domain / Platform | Tech Stack | Highlights & Overview | Links |
 | :--- | :--- | :--- | :--- | :--- |
-| **[Project 1 Title]** | *e.g., Enterprise RAG System* | `PyTorch` `LangChain` `Qdrant` `FastAPI` | Optimized retrieval with reranking; sub-150ms latency | [Code](#) • [Demo](#) |
-| **[Project 2 Title]** | *e.g., Domain-Specific LLM Fine-Tuning* | `Hugging Face` `PEFT/LoRA` `vLLM` | 4-bit QLoRA tuning with 25% lower memory footprint | [Code](#) • [Weights](#) |
-| **[Project 3 Title]** | *e.g., Real-Time Multimodal Vision AI* | `YOLOv10` `TensorRT` `Docker` `CUDA` | 60+ FPS inference on edge devices | [Code](#) • [Demo](#) |
+| **[🐾 WhiskerBites](https://github.com/dev-muneebali/WhiskerBites)** | Mobile App / E-Commerce | `Java` `Android SDK 34` `SQLite` `Glide` `Material Design` | Native pet food & treats ordering app featuring catalog browsing, real-time cart calculations, user auth, and offline SQLite persistence | [Repository](https://github.com/dev-muneebali/WhiskerBites) • [Documentation](https://github.com/dev-muneebali/WhiskerBites#readme) |
 
 ---
 
