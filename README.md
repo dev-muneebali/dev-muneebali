@@ -135,6 +135,20 @@ flowchart LR
 
 ---
 
+### 📊 Live Activity & Contribution Tracker
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/6366f1/dev-muneebali" alt="Muneeb's Live GitHub Contribution Chart" width="100%" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=dev-muneebali&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Live Streak Tracker" width="95%" />
+
+</div>
+
+---
+
 ### 🎯 Engineering Benchmarks & Core Focus
 
 | Focus Area | Engineering Objective | Primary Stack | Production Standard |
