@@ -15,6 +15,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
 
+<br/><br/>
+
+<a href="https://github.com/dev-muneebali">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=818CF8&center=true&vCenter=true&width=620&lines=Fine-Tuning+Domain+LLMs+(LoRA%2FQLoRA);Architecting+High-Throughput+RAG+Pipelines;Optimizing+Inference+with+vLLM+%26+TensorRT;Engineering+Production-Grade+AI+Systems" alt="Typing SVG" />
+</a>
+
 <br/>
 
 > *"Bridging the gap between cutting-edge AI research and scalable production systems."*
@@ -85,16 +91,55 @@
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 🖥️ AI Engineering Console & Runtime
+
+```bash
+muneeb@ai-engine:~$ sysctl --status --system-profile
+
+[+] Engineer Profile      :: Muneeb Ali (@dev-muneebali)
+[+] Core Disciplines      :: Large Language Models (LLMs) • Generative AI • MLOps
+[+] Acceleration Engines  :: CUDA 12.x • TensorRT • vLLM • ONNX Runtime
+[+] Production Ecosystem  :: PyTorch • FastAPI • Docker • Qdrant • Ray Serve
+[+] Model Compression     :: 4-bit / 8-bit Quantization (BitsAndBytes, AWQ, GGUF)
+[+] Active Research Focus :: Parameter-Efficient Fine-Tuning (PEFT) & Multi-Agent RAG
+[+] Deployment Targets    :: Cloud GPU Clusters & Edge Android Applications
+[+] System Availability   :: [ONLINE] Ready for Advanced AI Research & Engineering
+```
+
+---
+
+### ⚡ End-to-End AI Production Architecture
+
+```mermaid
+flowchart LR
+    subgraph DataEngine["1. Data & Representation"]
+        A["Raw Corpora / Multimodal Inputs"] --> B["Tokenization & Chunking"]
+        B --> C["Dense Vector Embeddings"]
+    end
+
+    subgraph ModelEngine["2. Modeling & Reasoning"]
+        C --> D["Foundation Models (LLMs / Vision)"]
+        D --> E["LoRA / QLoRA Adapters"]
+    end
+
+    subgraph Optimization["3. Acceleration & Serving"]
+        E --> F["4-bit Quantization / AWQ"]
+        F --> G["vLLM / Triton Inference Engine"]
+    end
+
+    subgraph Production["4. Production Delivery"]
+        G --> H["FastAPI Microservices"]
+        H --> I["Guardrails, Caching & Real-Time APIs"]
+    end
+```
+
+---
+
+### 📈 Continuous Activity & Contributions
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dev-muneebali&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-muneebali&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" width="48%" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-muneebali&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" width="97%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-muneebali&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Continuous Activity Graph" />
 
 </div>
 
