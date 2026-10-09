@@ -146,13 +146,13 @@ flowchart LR
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=dev-muneebali&show_icons=true&hide=issues,prs&theme=tokyonight&bg_color=0d1117&border_color=21262d&border_radius=8" height="150" alt="Muneeb's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=dev-muneebali&show_icons=true&hide=issues,prs&theme=tokyonight&bg_color=0d1117&border_color=21262d&border_radius=8&cache_seconds=1800" height="150" alt="Muneeb's GitHub Stats" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-muneebali&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=21262d&border_radius=8" height="150" alt="Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-muneebali&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=21262d&border_radius=8&cache_seconds=1800" height="150" alt="Most Used Languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=dev-muneebali&theme=tokyonight&background=0d1117&border=21262d&border_radius=8" width="95%" alt="GitHub Streak Tracker" />
+<img src="https://streak-stats.demolab.com/?user=dev-muneebali&theme=tokyonight&background=0d1117&border=21262d&border_radius=8&cache_seconds=1800" width="95%" alt="GitHub Streak Tracker" />
 
 </div>
 
