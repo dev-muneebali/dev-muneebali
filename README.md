@@ -87,6 +87,7 @@
 
 | Project | Domain / Platform | Tech Stack | Highlights & Overview | Links |
 | :--- | :--- | :--- | :--- | :--- |
+| **[👁️ GlaucoVision-AI](https://github.com/dev-muneebali/GlaucoVision-AI)** | Medical Computer Vision & CAD | `PyTorch` `EfficientNet-B3` `CBAM` `Grad-CAM` `Albumentations` | Multi-modal glaucoma detection & stratification with 6-channel fundus decomposition, CDR-aware loss guidance, and 0.9273 internal / 0.7887 external AUC-ROC | [Repository](https://github.com/dev-muneebali/GlaucoVision-AI) • [Research](https://github.com/dev-muneebali/GlaucoVision-AI#readme) |
 | **[🐾 WhiskerBites](https://github.com/dev-muneebali/WhiskerBites)** | Mobile App / E-Commerce | `Java` `Android SDK 34` `SQLite` `Glide` `Material Design` | Native pet food & treats ordering app featuring catalog browsing, real-time cart calculations, user auth, and offline SQLite persistence | [Repository](https://github.com/dev-muneebali/WhiskerBites) • [Documentation](https://github.com/dev-muneebali/WhiskerBites#readme) |
 
 ---
