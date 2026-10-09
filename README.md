@@ -140,9 +140,9 @@ flowchart LR
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=dev-muneebali&style=flat-square&color=6366f1&label=PROFILE+VIEWS)](https://github.com/dev-muneebali)
-[![Primary Focus](https://img.shields.io/badge/Primary%20Focus-Generative%20AI%20%26%20MLOps-8b5cf6?style=flat-square&logo=pytorch)](https://github.com/dev-muneebali)
-[![Repositories](https://img.shields.io/badge/Public%20Repos-Active-22c55e?style=flat-square&logo=github)](https://github.com/dev-muneebali?tab=repositories)
+[![Discipline](https://img.shields.io/badge/Discipline-Deep%20Learning%20%26%20LLMs-6366f1?style=flat-square&logo=pytorch&logoColor=white)](https://github.com/dev-muneebali)
+[![Primary Focus](https://img.shields.io/badge/Primary%20Focus-Generative%20AI%20%26%20MLOps-8b5cf6?style=flat-square&logo=huggingface&logoColor=black)](https://github.com/dev-muneebali)
+[![Repositories](https://img.shields.io/badge/Public%20Repos-3%20Active-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/dev-muneebali?tab=repositories)
 
 <br/><br/>
 
